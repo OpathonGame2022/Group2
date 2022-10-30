@@ -50,7 +50,7 @@
                ))}
    
                <Post 
-               name="ABOU SOW"
+               name="Opathon 2022"
                description="Ceci est un test"
                message="Wow ça vraiment fonctionné!"/>
    
